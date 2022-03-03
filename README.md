@@ -1,5 +1,5 @@
 ### Olá, eu sou o Ellington!
-<div align="left">
+<div align="center">
   <a href="https://github.com/ellcavalcante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellcavalcante&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellcavalcante&layout=compact&langs_count=7&theme=gradient"/>
@@ -9,7 +9,6 @@
 </div>
   
   ##
-  
   <div> 
   <a href="https://instagram.com/ellcavalcante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ellington-cavalcante-88aa5519b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
