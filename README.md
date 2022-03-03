@@ -1,5 +1,5 @@
 ### Olá, eu sou o Ellington!
-<div align="center">
+<div align="left">
   <a href="https://github.com/ellcavalcante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellcavalcante&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellcavalcante&layout=compact&langs_count=7&theme=gradient"/>
